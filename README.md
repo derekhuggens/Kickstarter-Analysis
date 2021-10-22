@@ -2,7 +2,7 @@
 
 # An Excel workbook showcasing statistical analysis of successful, failed, cancelled, and live Kickstarter campaigns.
 
-![Outcomes Based on Launch Date.png](path/to/Outcomes Based on Launch Date.png)
+![Name](path/to/Outcomes Based on Launch Date.png)
 ![Parent Category Outcomes Chart.png](path/to/Parent Category Outcomes Chart.png)
 ![Theater_Outcomes_vs_Launch.png](path/to/Theater_Outcomes_vs_Launch.png)
 
