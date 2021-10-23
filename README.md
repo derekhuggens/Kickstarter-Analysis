@@ -2,9 +2,9 @@
 
 # An Excel workbook showcasing statistical analysis of successful, failed, cancelled, and live Kickstarter campaigns.
 
-![Name](path/to/Outcomes Based on Launch Date.png)
-![Parent Category Outcomes Chart.png](path/to/Parent Category Outcomes Chart.png)
-![Theater_Outcomes_vs_Launch.png](path/to/Theater_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Date.png](resources/Outcomes Based on Launch Date.png)
+![Parent Category Outcomes Chart.png](resources/Parent Category Outcomes Chart.png)
+![Theater_Outcomes_vs_Launch.png](resources/Theater_Outcomes_vs_Launch.png)
 
 Launch your campaign between May and June! Keep it below 4,000 pounds in Great Britain!
 
