@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns.
 
-## An Excel workbook showcasing statistical analysis of successful, failed, canceled, and live Kickstarter campaigns.
+### An Excel workbook showcasing statistical analysis of successful, failed, canceled, and live Kickstarter campaigns.
 
 ## Overview of Project
 
