@@ -4,8 +4,7 @@
 
 ## Overview of Project
 
-### In this project, an Excel file containing a large dataset of Kickstarter campaigns was analyzed. Kickstarter is a crowdfunding platform that has become very successful at manifesting projects from imagination, to reality, via backers that fund projects they believe in.
-Powerful Excel tools and techniques were learned and used to build a better picture of Kickstarter campaigns for a client named Louise. Filters, conditional formattting, pivot tables, formulas like ROUND, IFERROR, COUNTIFS, SUM, AVERAGE, MEDIAN, STDEV.P, QUARTILE.EXC, and VLOOKUP were used to help build a data story for Louise to launch a Kickstarter campaign with a higher probability of success.
+### In this project, an Excel file containing a large dataset of Kickstarter campaigns was analyzed. Kickstarter is a crowdfunding platform that has become very successful at manifesting projects from imagination, to reality, via backers that fund projects they believe in. Powerful Excel tools and techniques were learned and used to build a better picture of Kickstarter campaigns for a client named Louise. Filters, conditional formattting, pivot tables, formulas like ROUND, IFERROR, COUNTIFS, SUM, AVERAGE, MEDIAN, STDEV.P, QUARTILE.EXC, and VLOOKUP were used to help build a data story for Louise to launch a Kickstarter campaign with a higher probability of success.
 
 ## Analysis and Challenges
 ### To begin analyzing a large dataset such as this Kickstarter workbook it was essential to hone in on what the client Louise wanted to achieve. The client wanted to look in to campaign data specifically in the category of theatre and then deeper into the subcategory of plays. To do this, the workbook's Category and Subcategory column was separated into two individual columns called Parent Category and Subcategory, where the Parent Category could be filtered to show just "theatre" and the Subcategory could be filtered to show just "plays."
