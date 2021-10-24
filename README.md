@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns.
 
-## An Excel workbook showcasing statistical analysis of successful, failed, cancelled, and live Kickstarter campaigns.
+## An Excel workbook showcasing statistical analysis of successful, failed, canceled, and live Kickstarter campaigns.
 
 * Launch your play campaign between May and June! 
 * Keep it below 4,000 pounds in Great Britain if pursuing a musical!
