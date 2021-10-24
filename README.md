@@ -6,12 +6,12 @@
 ![Parent Category Outcomes Chart.png](resources/Parent Category Outcomes Chart.png)
 ![Theater_Outcomes_vs_Launch.png](resources/Theater_Outcomes_vs_Launch.png)
 
-Launch your campaign between May and June! Keep it below 4,000 pounds in Great Britain!
+* Launch your campaign between May and June! 
+* Keep it below 4,000 pounds in Great Britain!
 
 
 
 
-# Module-1-Challenge
 
 # Kickstarting with Excel
 
