@@ -29,18 +29,18 @@ The biggest hurdle I had during this data analysis was using the COUNTIFS formul
 
 ## Results
 
-###- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-####From the Outcomes Based on Launch Date line chart we concluded that launching a theatre campaign between late April and the middle of June would be a statistical advantage. I also see that when overlayed, the failed outcome and successful outcome lines show a close correlation in the time domain, with a divergence in correlation in December. No theatre campaigns were canceled in October which is interesting in its own right.
+#### From the Outcomes Based on Launch Date line chart we concluded that launching a theatre campaign between late April and the middle of June would be a statistical advantage. I also see that when overlayed, the failed outcome and successful outcome lines show a close correlation in the time domain, with a divergence in correlation in December. No theatre campaigns were canceled in October which is interesting in its own right.
 
-###- What can you conclude about the Outcomes based on Goals?
+### - What can you conclude about the Outcomes based on Goals?
 
-####The Outcomes Based on Goals line chart was from data of the "play" subcategory. We can see that none of the play campaigns were canceled and the data all lies on the 0% outcome percentage. The Percentage Failed line shows that campaigns became more likely to fail as their goals increased. There was less likelyhood of failure at the 35,000 - 39,999 and 40,000 - 44,999 goal ranges with a drastic increase in failure percentage from 45,000 and greater. The reason for less failures (a deviation from the trend) in the 35,000 to 44,999 range cannot be drawn from this data. For Louise, we conclude that it would be in her best interest to keep her campaign goal below 4,999, though there is success rates in the 35,000 - 44,999 goal ranges, those goals are far higher than her budget. We also let Louise know to not let any of her wealthy friends try to start a play campaign with goal ranges greater than or equal to 45,000 as they'll have a success rate less than or equal to 13%.
+#### The Outcomes Based on Goals line chart was from data of the "play" subcategory. We can see that none of the play campaigns were canceled and the data all lies on the 0% outcome percentage. The Percentage Failed line shows that campaigns became more likely to fail as their goals increased. There was less likelyhood of failure at the 35,000 - 39,999 and 40,000 - 44,999 goal ranges with a drastic increase in failure percentage from 45,000 and greater. The reason for less failures (a deviation from the trend) in the 35,000 to 44,999 range cannot be drawn from this data. For Louise, we conclude that it would be in her best interest to keep her campaign goal below 4,999, though there is success rates in the 35,000 - 44,999 goal ranges, those goals are far higher than her budget. We also let Louise know to not let any of her wealthy friends try to start a play campaign with goal ranges greater than or equal to 45,000 as they'll have a success rate less than or equal to 13%.
 
-###- What are some limitations of this dataset?
+### - What are some limitations of this dataset?
 
-####The first thing I noticed about the dataset that was peculiar was that there was a currency column. The goal and pledge columns did not have any currency conversions. Kickstarter launched in 2009, the dataset contains campaigns from 2009 but the last campaign creation date has the year 2017. Louise needs campaign data up to today's date!
+#### The first thing I noticed about the dataset that was peculiar was that there was a currency column. The goal and pledge columns did not have any currency conversions. Kickstarter launched in 2009, the dataset contains campaigns from 2009 but the last campaign creation date has the year 2017. Louise needs campaign data up to today's date!
 
-###- What are some other possible tables and/or graphs that we could create?
+### - What are some other possible tables and/or graphs that we could create?
 
-####A graph that included percentage outcomes based on columns we did not use such as staff_pick and spotlight. We could see if length of campaign had an impact on campaigns, for example, campaigns that came very close to 100% funded but did not by the campaign end date.
+#### A graph that included percentage outcomes based on columns we did not use such as staff_pick and spotlight. We could see if length of campaign had an impact on campaigns, for example, campaigns that came very close to 100% funded but did not by the campaign end date.
