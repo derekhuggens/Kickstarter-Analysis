@@ -2,8 +2,6 @@
 
 ## An Excel workbook showcasing statistical analysis of successful, failed, canceled, and live Kickstarter campaigns.
 
-# Kickstarting with Excel
-
 ## Overview of Project
 ### In this project, an Excel file containing a large dataset of Kickstarter campaigns was analyzed. Kickstarter is a crowdfunding platform that has become very successful at manifesting projects from imagination, to reality, via backers that fund projects they believe in.
 
