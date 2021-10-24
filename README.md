@@ -11,19 +11,19 @@
 
 ![image](https://user-images.githubusercontent.com/27036669/138611094-dab8cd49-93a9-4912-8360-e479470c376a.png)
 
-From here, the Kickstarter data was split into two worksheets where one held the data of all failed campaigns and the other held the data of all the successful campaigns. Descriptive statistics of mean, median, std. dev, upper quartile, lower quartile, and interquartile range were calculated for the successful campaigns and failed campaigns. From the statistical data given, we learned that Louise needs to lower her goal amount of $12,000 to something closer to the mean successful goal amount of $5,049. Failed campaigns had the tendency of having goals that were overextended and pledge deviations of large spread. 
+### From here, the Kickstarter data was split into two worksheets where one held the data of all failed campaigns and the other held the data of all the successful campaigns. Descriptive statistics of mean, median, std. dev, upper quartile, lower quartile, and interquartile range were calculated for the successful campaigns and failed campaigns. From the statistical data given, we learned that Louise needs to lower her goal amount of $12,000 to something closer to the mean successful goal amount of $5,049. Failed campaigns had the tendency of having goals that were overextended and pledge deviations of large spread. 
 
 ![image](https://user-images.githubusercontent.com/27036669/138615048-bf155014-0d4a-4b1a-b81e-de80f6b3c2d2.png)
 
-By using a pivot table with time in months as the independent variable and the outcome value as the dependent variable we created a line graph titled, "Theatre Outcomes Based on Launch Date." Filtering the Parent Category to only "theatre," and types of outcomes to successful, failed, and canceled, we could see that launching a theatre Kickstarter between late April and the middle of June would be a statistical advantage. 
+### By using a pivot table with time in months as the independent variable and the outcome value as the dependent variable we created a line graph titled, "Theatre Outcomes Based on Launch Date." Filtering the Parent Category to only "theatre," and types of outcomes to successful, failed, and canceled, we could see that launching a theatre Kickstarter between late April and the middle of June would be a statistical advantage. 
 
 ![image](https://user-images.githubusercontent.com/27036669/138615215-bdfaf379-1abc-4206-9396-fbd02de44d72.png)
 
-Creating a column of Kickstarter goal ranges, i.e, "Less than 1000," "20,000 to 24,999," and "Greater than 50,000," we calculated the number of successful, failed, canceled, and total projects within goal ranges. We then calculated the percentage of successful, failed, and canceled campaigns with respective goal ranges. The resulting data was represented in a line graph with the independent variable being goal ranges and the dependent variable being outcome percentages for successful, failed, and canceled campaigns seen below.
+### Creating a column of Kickstarter goal ranges, i.e, "Less than 1000," "20,000 to 24,999," and "Greater than 50,000," we calculated the number of successful, failed, canceled, and total projects within goal ranges. We then calculated the percentage of successful, failed, and canceled campaigns with respective goal ranges. The resulting data was represented in a line graph with the independent variable being goal ranges and the dependent variable being outcome percentages for successful, failed, and canceled campaigns seen below.
 
 ![image](https://user-images.githubusercontent.com/27036669/138615367-0a27af25-8114-4df5-8bc5-264171109eb2.png)
 
-The biggest hurdle I had during this data analysis was using the COUNTIFS formula, not for the Less than 1000 or the Greater than 50000 rows, but for the rows in between them. I wasn't putting the third <= criteria range in the right place, after the Kickstarter!$F:$F, "outcome", criteria, with the first criteria being the =COUNTIFS(Kickstarter!$D:$D, ">=1000", for example.
+### The biggest hurdle I had during this data analysis was using the COUNTIFS formula, not for the Less than 1000 or the Greater than 50000 rows, but for the rows in between them. I wasn't putting the third <= criteria range in the right place, after the Kickstarter!$F:$F, "outcome", criteria, with the first criteria being the =COUNTIFS(Kickstarter!$D:$D, ">=1000", for example.
 
 ## Results
 
